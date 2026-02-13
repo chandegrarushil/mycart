@@ -1,0 +1,70 @@
+
+/*Backgroung-image*/
+.img{
+    background-image: url(coverimg1.jpg);
+    background-size: cover;
+    margin-top: 5px;
+    height: 650px;
+    width: 1535px;
+}
+
+/*section*/
+.login-form{
+     width: 400px;
+     height: 400px;
+     top: 350px;
+     left:785px;
+     transform:translate(-50%, -50%);
+     position:absolute;
+     border-radius: 10px;
+     /*background-color: #778899;*/
+     background-color: #eeee;   
+}
+
+.login-form h1{
+     background-color: #357ca5;
+    /* background-color: #b0e0e6;*/
+     color: #eee;
+     font-size:40px;
+     font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+     text-transform: uppercase;
+     margin: 20px 20px;
+     border-radius: 5px;
+}
+
+.login-form p{
+     font-size:20px;
+     margin-top: 25px;
+     margin-left: 15px;
+}
+
+.login-form input{
+      margin-left: 10px;
+      margin-top: 10px;
+      font-size:16px;
+      width:80%;
+      padding:10px 10px;
+      border-radius:10px;
+      border: 5px white;
+}
+
+.login-form button{
+    background-color: #357ca5;
+    /*background-color:#b0e0e6;*/
+    color:#eee;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 100px;
+    margin-top: 30px;
+    border: 10px white;
+    border-radius: 70px;
+    font-weight: bold;
+    width: 50%;
+    padding: 8px 10px;
+}
+
+.login-form a{
+    color: blue;
+}
+

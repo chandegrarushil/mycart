@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container a{
+    margin-left: 22%;
+    background-color: #357ca5;
+    font-weight: bold;
+}

@@ -1,0 +1,8 @@
+/*Backgroung-image*/
+.img{
+    background-image: url(img/coverimg1.jpg);
+    background-size: cover;
+    margin-top: 5px;
+    height: 650px;
+    width: 1535px;
+}

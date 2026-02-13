@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+body{
+    background: #eee;
+    background-size: cover;
+}
+
+.navbar{
+    height: 83px;
+    background-color: #357ca5;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo{
+    height: 80px;
+    width: 180px;
+}
+
+.logo{
+    background-image: url(mycart.png);
+    background-size: cover;
+    height: 80px;
+    width: 170px;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
+
+/*Box2*/
+.nav-name a{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    color: #eee;
+}
+
+.nav-name{
+    padding: 24px 24px;
+}
+
+.nav-nm{
+    color: #eee;
+    font-size: 36px;
+    align-items: center;
+}
+

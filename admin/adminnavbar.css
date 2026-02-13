@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+body{
+    background: #eee;
+    background-size: cover;
+}
+
+.navbar{
+    height: 83px;
+    background-color: #357ca5;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.nav-logo{
+    height: 80px;
+    width: 180px;
+}
+
+.logo{
+    background-image: url(mycart.png);
+    background-size: cover;
+    height: 80px;
+    width: 170px;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
+
+/*Box2*/
+.nav-name a{
+    font-size: 28px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    color: #eee;
+}
+
+.nav-name{
+    padding: 24px 24px;
+}
+
+.nav-nm{
+    color: #eee;
+    font-size: 36px;
+    align-items: center;
+}
+
+/*Box3*/
+.addproducts a{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #eee;
+}
+
+.addproducts{
+    padding: 29px 29px;
+}
+
+.nav-addpro{
+    color: #eee;
+    font-size: 20px;
+    align-items: center;
+
+}
+
+/*Box4*/
+.products a{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #eee;   
+}
+
+.products{
+    padding: 29px 29px;
+}
+
+.nav-pro{
+    color: #eee;
+    font-size: 20px;
+    align-items: center;
+}
+
+/*Box5*/
+.users a{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 5%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #eee;
+}
+
+.users{
+    padding: 29px 29px; 
+}
+
+.nav-usr{
+    color: #eee;
+    font-size: 20px;
+    align-items: center;  
+}
+
+/*Box6*/
+.orders a{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 5%;
+    margin-left: 10px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #eee;
+}
+
+.orders{
+    padding: 29px 29px; 
+}
+
+.nav-odr{
+    color: #eee;
+    font-size: 20px;
+    align-items: center;  
+}
+
+/*Box7*/
+.feed a{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 5%;
+    margin-left: 10px;
+    margin-right: 20px;
+    text-decoration: none;
+    color: #eee;
+}
+
+.feed{
+    padding: 29px 29px; 
+}
+
+.nav-fed{
+    color: #eee;
+    font-size: 20px;
+    align-items: center;  
+}

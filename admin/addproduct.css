@@ -1,0 +1,79 @@
+
+.box{
+    height: 600px;
+    width: 1400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    height: 500px;
+    width: 1000px;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+
+table td label{
+    margin-left: 25px;
+}
+tr h1{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+label{
+    height: 35px;
+    width: 25px;
+    display: flex;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #eee;
+    margin-bottom: 12px;
+}
+
+table{
+    border: 3px solid black;
+    border-radius: 2px;
+}
+
+td{
+    border: 1px solid white;
+    border-radius: 2px;
+}
+
+#ins_btn
+{
+    height: 25px;
+	width: 100px;
+}
+
+input#fi{
+    margin-top: 10px;
+}
+
+input{
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 40px;
+    width: 95%;
+}
+
+select{
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 40px;
+    width: 19%;
+}
+
+textarea{
+    margin-left: 15px;
+    height: 55px;
+    width: 95%;
+}
+
+/*.file fi{
+    height: 40px;
+    width: 25%;
+    margin-top: 5px;
+}*/
